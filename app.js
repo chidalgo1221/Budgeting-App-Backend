@@ -10,7 +10,7 @@ app.use(cors());
 app.use("/transactions", transactions)
 
 app.get("/", (req, res) => {
-  res.send("Budgeting App");
+  res.send("Budgeting-App");
 });
 
 app.get("*", (req, res) => {
