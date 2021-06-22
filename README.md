@@ -1,2 +1,3 @@
 https://budgeting-appp.herokuapp.com/
-https://github.com/chidalgo1221/Budgeting-App-Backend
+https://budgett-app.netlify.app/
+https://github.com/chidalgo1221/Budgeting-App-Frontend
